@@ -1,0 +1,25 @@
+<api>
+  <jcw-types>
+    <type name="MainActivity" package="crc64752b970231ac5f1e" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="android.app.Activity" partial_assembly_qualified_name="WaterCountdownWidget.MainActivity, WaterCountdownWidget">
+      <constructors>
+        <constructor name="MainActivity" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
+      </constructors>
+      <methods>
+        <method name="onCreate" method="n_onCreate:(Landroid/os/Bundle;)V:GetOnCreate_Landroid_os_Bundle_Handler" jni_signature="(Landroid/os/Bundle;)V" params="android.os.Bundle p0" retval="void" super_call="p0" activate_call="p0" />
+      </methods>
+    </type>
+    <type name="WaterCountdownWidgetProvider" package="crc64752b970231ac5f1e" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="android.appwidget.AppWidgetProvider" partial_assembly_qualified_name="WaterCountdownWidget.WaterCountdownWidgetProvider, WaterCountdownWidget">
+      <constructors>
+        <constructor name="WaterCountdownWidgetProvider" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
+      </constructors>
+      <methods>
+        <method name="onUpdate" method="n_onUpdate:(Landroid/content/Context;Landroid/appwidget/AppWidgetManager;[I)V:GetOnUpdate_Landroid_content_Context_Landroid_appwidget_AppWidgetManager_arrayIHandler" jni_signature="(Landroid/content/Context;Landroid/appwidget/AppWidgetManager;[I)V" params="android.content.Context p0, android.appwidget.AppWidgetManager p1, int[] p2" retval="void" super_call="p0, p1, p2" activate_call="p0, p1, p2" />
+        <method name="onReceive" method="n_onReceive:(Landroid/content/Context;Landroid/content/Intent;)V:GetOnReceive_Landroid_content_Context_Landroid_content_Intent_Handler" jni_signature="(Landroid/content/Context;Landroid/content/Intent;)V" params="android.content.Context p0, android.content.Intent p1" retval="void" super_call="p0, p1" activate_call="p0, p1" />
+      </methods>
+    </type>
+  </jcw-types>
+  <acw-types partial-assembly-name="WaterCountdownWidget" module-name="WaterCountdownWidget.dll">
+    <type assembly-qualified-name="WaterCountdownWidget.MainActivity, WaterCountdownWidget, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="watercountdownwidget.MainActivity" java-key="crc64752b970231ac5f1e.MainActivity" managed-key="WaterCountdownWidget.MainActivity" partial-assembly-qualified-name="WaterCountdownWidget.MainActivity, WaterCountdownWidget" />
+    <type assembly-qualified-name="WaterCountdownWidget.WaterCountdownWidgetProvider, WaterCountdownWidget, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="watercountdownwidget.WaterCountdownWidgetProvider" java-key="crc64752b970231ac5f1e.WaterCountdownWidgetProvider" managed-key="WaterCountdownWidget.WaterCountdownWidgetProvider" partial-assembly-qualified-name="WaterCountdownWidget.WaterCountdownWidgetProvider, WaterCountdownWidget" />
+  </acw-types>
+</api>

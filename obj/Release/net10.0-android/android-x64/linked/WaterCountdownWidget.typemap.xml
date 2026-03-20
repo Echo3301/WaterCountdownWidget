@@ -1,0 +1,8 @@
+<api type="release" assembly-name="WaterCountdownWidget" mvid="f3bf2c3e8ca14f5a8ca5ce7e574352a4">
+  <module assembly-name="WaterCountdownWidget" mvid="f3bf2c3e8ca14f5a8ca5ce7e574352a4" mvid-bytes="Piy/86GMWk+Mpc5+V0NSpA==">
+    <types-scratch>
+      <entry key="crc64752b970231ac5f1e/MainActivity" java-name="crc64752b970231ac5f1e/MainActivity" managed-type-name="WaterCountdownWidget.MainActivity" token="33554434" />
+      <entry key="crc64752b970231ac5f1e/WaterCountdownWidgetProvider" java-name="crc64752b970231ac5f1e/WaterCountdownWidgetProvider" managed-type-name="WaterCountdownWidget.WaterCountdownWidgetProvider" token="33554435" />
+    </types-scratch>
+  </module>
+</api>

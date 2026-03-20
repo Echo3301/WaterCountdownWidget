@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fwphGmvoL9c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\angel\\OneDrive\\Skrivbord\\Water-widget\\WaterCountdownWidget\\WaterCountdownWidget.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\angel\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.4\\microsoft.net.illink.tasks.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,42 @@
+Android.Content.ISharedPreferences, Mono.Android;android.content.SharedPreferences
+Android.Content.ISharedPreferences;android.content.SharedPreferences
+android.content.SharedPreferences;android.content.SharedPreferences
+Android.Content.ISharedPreferencesEditor, Mono.Android;android.content.SharedPreferences$Editor
+Android.Content.ISharedPreferencesEditor;android.content.SharedPreferences$Editor
+android.content.SharedPreferences$Editor;android.content.SharedPreferences$Editor
+Android.Content.ISharedPreferencesOnSharedPreferenceChangeListener, Mono.Android;android.content.SharedPreferences$OnSharedPreferenceChangeListener
+Android.Content.ISharedPreferencesOnSharedPreferenceChangeListener;android.content.SharedPreferences$OnSharedPreferenceChangeListener
+android.content.SharedPreferences$OnSharedPreferenceChangeListener;android.content.SharedPreferences$OnSharedPreferenceChangeListener
+Android.Runtime.InputStreamAdapter, Mono.Android;mono.android.runtime.InputStreamAdapter
+Android.Runtime.InputStreamAdapter;mono.android.runtime.InputStreamAdapter
+mono.android.runtime.InputStreamAdapter;mono.android.runtime.InputStreamAdapter
+Android.Runtime.JavaObject, Mono.Android;mono.android.runtime.JavaObject
+Android.Runtime.JavaObject;mono.android.runtime.JavaObject
+mono.android.runtime.JavaObject;mono.android.runtime.JavaObject
+Android.Runtime.JavaProxyThrowable, Mono.Android;android.runtime.JavaProxyThrowable
+Android.Runtime.JavaProxyThrowable;android.runtime.JavaProxyThrowable
+android.runtime.JavaProxyThrowable;android.runtime.JavaProxyThrowable
+Android.Runtime.OutputStreamAdapter, Mono.Android;mono.android.runtime.OutputStreamAdapter
+Android.Runtime.OutputStreamAdapter;mono.android.runtime.OutputStreamAdapter
+mono.android.runtime.OutputStreamAdapter;mono.android.runtime.OutputStreamAdapter
+Java.Lang.ICharSequence, Mono.Android;java.lang.CharSequence
+Java.Lang.ICharSequence;java.lang.CharSequence
+java.lang.CharSequence;java.lang.CharSequence
+Java.Lang.IRunnable, Mono.Android;java.lang.Runnable
+Java.Lang.IRunnable;java.lang.Runnable
+java.lang.Runnable;java.lang.Runnable
+Java.Lang.Thread+RunnableImplementor, Mono.Android;mono.java.lang.RunnableImplementor
+Java.Lang.Thread.RunnableImplementor;mono.java.lang.RunnableImplementor
+mono.java.lang.RunnableImplementor;mono.java.lang.RunnableImplementor
+Java.Util.Functions.IConsumer, Mono.Android;java.util.function.Consumer
+Java.Util.Functions.IConsumer;java.util.function.Consumer
+java.util.function.Consumer;java.util.function.Consumer
+Java.Util.IIterator, Mono.Android;java.util.Iterator
+Java.Util.IIterator;java.util.Iterator
+java.util.Iterator;java.util.Iterator
+WaterCountdownWidget.MainActivity, WaterCountdownWidget;crc64752b970231ac5f1e.MainActivity
+WaterCountdownWidget.MainActivity;crc64752b970231ac5f1e.MainActivity
+watercountdownwidget.MainActivity;crc64752b970231ac5f1e.MainActivity
+WaterCountdownWidget.WaterCountdownWidgetProvider, WaterCountdownWidget;crc64752b970231ac5f1e.WaterCountdownWidgetProvider
+WaterCountdownWidget.WaterCountdownWidgetProvider;crc64752b970231ac5f1e.WaterCountdownWidgetProvider
+watercountdownwidget.WaterCountdownWidgetProvider;crc64752b970231ac5f1e.WaterCountdownWidgetProvider

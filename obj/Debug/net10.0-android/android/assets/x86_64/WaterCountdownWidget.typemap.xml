@@ -1,0 +1,10 @@
+<api type="debug" assembly-name="WaterCountdownWidget" mvid="5def1f8b9765484c9a5088ce5eb72ea4">
+  <java-to-managed>
+    <entry java-name="crc64752b970231ac5f1e/MainActivity" managed-name="WaterCountdownWidget.MainActivity, WaterCountdownWidget" managed-type-token-id="33554434" />
+    <entry java-name="crc64752b970231ac5f1e/WaterCountdownWidgetProvider" managed-name="WaterCountdownWidget.WaterCountdownWidgetProvider, WaterCountdownWidget" managed-type-token-id="33554435" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="crc64752b970231ac5f1e/MainActivity" managed-name="WaterCountdownWidget.MainActivity, WaterCountdownWidget" managed-type-token-id="33554434" />
+    <entry java-name="crc64752b970231ac5f1e/WaterCountdownWidgetProvider" managed-name="WaterCountdownWidget.WaterCountdownWidgetProvider, WaterCountdownWidget" managed-type-token-id="33554435" />
+  </managed-to-java>
+</api>

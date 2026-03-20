@@ -1,0 +1,4 @@
+C:\Users\angel\OneDrive\Skrivbord\Water-widget\WaterCountdownWidget\bin\Release\net10.0-android\publish\com.companyname.WaterCountdownWidget-Signed.aab
+C:\Users\angel\OneDrive\Skrivbord\Water-widget\WaterCountdownWidget\bin\Release\net10.0-android\publish\com.companyname.WaterCountdownWidget.aab
+C:\Users\angel\OneDrive\Skrivbord\Water-widget\WaterCountdownWidget\bin\Release\net10.0-android\publish\com.companyname.WaterCountdownWidget-Signed.apk
+C:\Users\angel\OneDrive\Skrivbord\Water-widget\WaterCountdownWidget\bin\Release\net10.0-android\publish\_Microsoft.Android.Resource.Designer.dll
