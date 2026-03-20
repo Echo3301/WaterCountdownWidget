@@ -1,11 +1,7 @@
-
 using Android.Appwidget;
 using Android.Content;
 using Android.OS;
-
 using Java.Util;
-
-
 namespace WaterCountdownWidget
 {
     [BroadcastReceiver(Label = "Countdown Widget")]
@@ -84,12 +80,12 @@ namespace WaterCountdownWidget
 
             views.SetTextViewText(Resource.Id.widget_text, count.ToString());
 
-            // Byter bakgrund beroende på antal & slumpmässigfärg när 0
+            //Changes background depending on number & random color when 0
             if (count == 0)
             {
                 views.SetInt(Resource.Id.widget_background, "setBackgroundResource", Resource.Drawable.water_empty);
 
-                // Slumpfärg på siffran
+                //random color of 0
                 var rnd = new System.Random();
                 var color = colors[rnd.Next(colors.Length)];
                 views.SetTextColor(Resource.Id.widget_text, color);
@@ -100,7 +96,7 @@ namespace WaterCountdownWidget
                 views.SetTextColor(Resource.Id.widget_text, Android.Graphics.Color.White);
             }
 
-            // Klick på siffran
+            //Clicks on the number
             var clickIntent = new Intent(context, typeof(WaterCountdownWidgetProvider));
             clickIntent.SetAction("WIDGET_CLICK");
             var clickPending = PendingIntent.GetBroadcast(
@@ -111,7 +107,7 @@ namespace WaterCountdownWidget
             manager.UpdateAppWidget(widgetId, views);
         }
 
-        //Vibrera
+        //Vibrate
         private void Vibrate(Context context)
         {
             var vibrator = (Vibrator)context.GetSystemService(Context.VibratorService);
@@ -126,7 +122,7 @@ namespace WaterCountdownWidget
             }
         }
 
-        //Reset vid midnatt
+        //Reset at midnight
         private void ScheduleMidnightReset(Context context)
         {
             var alarmManager = (AlarmManager)context.GetSystemService(Context.AlarmService);
